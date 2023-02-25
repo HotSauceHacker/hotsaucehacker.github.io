@@ -14,32 +14,32 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Hotsauce Hacker                         # the main title
 
-tagline: Hot Sauce-loving Cybersecurity Expert   # it will display as the sub-title
+tagline: Hot Sauce loving Cybersecurity Expert   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A blog for  lessons learned, hot-sauce recommendations, and anything else worth sharing.
+  A blog for lessons learned, hot_sauce recommendations, and anything else worth sharing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://heasy.tech/'
 
 github:
   username: HotSauceHacker             # change to your github username
 
 twitter:
-  username:            # change to your twitter username
+  username: h0tsaucehack3r            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Rob Heasy
-  email: ?            # change to your email address
+  #email:            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/h0tsaucehack3r      # change to your twitter homepage
