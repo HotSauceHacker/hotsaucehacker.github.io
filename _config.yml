@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 'https://drive.google.com/file/d/13kxdvksIExY6ji2d2o6gXXrLFIF7vSEN/view?usp=share_link'
+avatar: /assets/img/profile_pic/pepperfavicon.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
