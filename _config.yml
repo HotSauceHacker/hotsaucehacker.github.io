@@ -21,7 +21,7 @@ timezone: America/New_York
 
 title: Hotsauce Hacker                         # the main title
 
-tagline: Hot Sauce loving Cybersecurity Expert   # it will display as the sub-title
+tagline: Cybersecurity expert with a passion for bourbon, spice, and everything nice.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A blog for lessons learned, hot_sauce recommendations, and anything else worth sharing.
