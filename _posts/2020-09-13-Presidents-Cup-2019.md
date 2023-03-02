@@ -51,5 +51,3 @@ The five files are encoded with `Caesar/ROT shift cipher`. The shift value is th
 Lastly hash the album cover image and use this as the password to the final zip. I tried the MD5 hash (`818532970e654e26d76e27858c508346`) of the album cover image since it is one of the most common types. It is the password to the 6th and final zip file.
 
 Found Flag! - `We're leaving together, but still it's farewell`
-
-Complete!
