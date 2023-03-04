@@ -2,7 +2,7 @@
 layout: post
 title: "Presidents Cup Challenges September 2019"
 categories: CTF
-tags: Presidents Cup
+tags: CTF
 ---
 
 I have been participating in Capture the Flags for a few years now, I highly recommend Pico CTF if you are just getting started!
