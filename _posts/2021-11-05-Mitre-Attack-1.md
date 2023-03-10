@@ -5,7 +5,7 @@ categories: mitre
 tags: mitre
 ---
 
-##Understanding MITRE ATT&CK Part 1
+## Understanding MITRE ATT&CK Part 1
 MITRE ATT&CK is a knowledge base that contains a comprehensive list of tactics and techniques used by cyber attackers. It was developed by MITRE Engenuity, a non-profit organization that aims to solve complex problems for the public interest. The framework provides a standardized language for describing the actions and behaviors of cyber attackers.
 
 In this article, we will cover the basic concepts of MITRE ATT&CK and how it can help you improve your organization's security posture.
