@@ -5,7 +5,7 @@ categories: mitre
 tags: mitre
 ---
 
-##Understanding the MITRE ATT&CK Framework Part 2
+## Understanding the MITRE ATT&CK Framework Part 2
 The MITRE ATT&CK (Adversarial Tactics, Techniques & Common Knowledge) framework is an open-source tool that provides a comprehensive and constantly evolving database of adversarial techniques used by cyber criminals. The framework is collaboratively built from publicly available information, insights, feedback, and citable contributions from the global community.
 
 The Benefits of the Framework
