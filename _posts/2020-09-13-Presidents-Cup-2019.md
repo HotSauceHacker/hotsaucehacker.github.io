@@ -6,7 +6,7 @@ tags: CTF
 ---
 
 I have been participating in Capture the Flags for a few years now, I highly recommend Pico CTF if you are just getting started!
-(https://picoctf.org/). This is achallenge from the first season I participated in Presidents Cup which is a CTF hosted by Cybersecurity & Infrastructure Security Agency(https://www.cisa.gov/presidents-cup-supporting-materials) 
+(https://picoctf.org/). This is achallenge from the first season I participated in President's Cup which is a CTF hosted by Cybersecurity & Infrastructure Security Agency(https://www.cisa.gov/presidents-cup-supporting-materials) 
 
 
 ### The Curious Case of the Matryoshka
