@@ -25,7 +25,7 @@ I believe certifications are useful for lifelong learners, but their value depen
 
  <a href="https://www.credly.com/badges/dd5b2477-fddc-4e58-ac67-25baff406606"><img src="https://images.credly.com/size/220x220/images/f535241f-edd3-4dd2-93fd-2243dbc0826e/image.png" alt="GWAPT" width="75"/></a>
 
-  <a href="https://www.credly.com/earner/earned/badge/bea1d59e-bfdc-4be6-a259-c73fd8e44d92"><img src="https://images.credly.com/size/220x220/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" alt="GRTP" width="75"/></a>
+  <a href="https://www.credly.com/badges/bea1d59e-bfdc-4be6-a259-c73fd8e44d92"><img src="https://images.credly.com/size/340x340/images/bb590913-9044-4008-aad6-968126f08f7f/image.png" alt="GRTP" width="75"/></a>
 
   <a href="https://www.credly.com/badges/d19ac7c8-de80-4042-aecb-ff38f7599ecf"><img src="https://images.credly.com/size/220x220/images/8e66b341-8fa9-43ff-a611-76b72a65b38f/image.png" alt="OSWP" width="75"/></a>
 
