@@ -16,6 +16,8 @@ tags: Mindset
 >People often think they have a right to not be offended, but this is a misconception. You can walk away, not listen, and criticize, but you don't have the right to censor others.  -Anonymous Professor
 
 ## Military
+>The only rational patriotism, is loyalty to the Nation ALL the time, loyalty to the Government when it deserves it - Mark Twain
+
 >We do not rise to the level of our hopes, we fall to the level of our training! - Archa Locus
 
 >We know that in tough times, cynicism is just another way to give up, and in the military, we consider cynicism or giving up simply as forms of cowardice. - General James Mattis
